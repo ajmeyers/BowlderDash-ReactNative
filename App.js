@@ -4,7 +4,7 @@ import Main from './components/MainComponent';
 export default function App() {
   console.disableYellowBox = true;
   return (
-      <Main/>
+      <Main />
   );
 }
 
